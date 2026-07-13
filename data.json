@@ -1,0 +1,44 @@
+[
+  {
+    "title": "MediaFire MP4",
+    "description": "Landing Page Modern",
+    "image": "https://picsum.photos/400/250?1",
+    "link": "https://example.com",
+    "category": "Telegram"
+  },
+  {
+    "title": "WhatsApp Premium",
+    "description": "Responsive Template",
+    "image": "https://picsum.photos/400/250?2",
+    "link": "https://example.com",
+    "category": "WhatsApp"
+  },
+  {
+    "title": "YouTube Premium",
+    "description": "Simple UI",
+    "image": "https://picsum.photos/400/250?3",
+    "link": "https://example.com",
+    "category": "YouTube"
+  },
+  {
+    "title": "Telegram Clone",
+    "description": "Dark Theme",
+    "image": "https://picsum.photos/400/250?4",
+    "link": "https://example.com",
+    "category": "Telegram"
+  },
+  {
+    "title": "Instagram Login",
+    "description": "Glass UI",
+    "image": "https://picsum.photos/400/250?5",
+    "link": "https://example.com",
+    "category": "WhatsApp"
+  },
+  {
+    "title": "Spotify Premium",
+    "description": "Minimal Design",
+    "image": "https://picsum.photos/400/250?6",
+    "link": "https://example.com",
+    "category": "YouTube"
+  }
+]
